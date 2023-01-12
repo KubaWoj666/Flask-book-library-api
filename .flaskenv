@@ -1,0 +1,3 @@
+FLASK_APP=book_library.py
+FLASK_DEBUG=True
+FLASK_RUN_PORT=8000
